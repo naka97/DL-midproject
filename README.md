@@ -22,7 +22,7 @@
 
 
 ## 링크
-https://colab.research.google.com/drive/19OQz452kLhRYfdP7FrsRLiGejk_lKzR9
+[https://colab.research.google.com/drive/19OQz452kLhRYfdP7FrsRLiGejk_lKzR9](https://colab.research.google.com/drive/1B_fRArLVGwlIh1tj1f6uiDxnU596BC32?usp=sharing)
 
 <br></br>
 
